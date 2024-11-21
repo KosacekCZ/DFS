@@ -1,0 +1,5 @@
+# ninja log v6
+1	31	1730968792756174225	CMakeFiles/c_sandbox.dir/calc.c.o	68724aed2c349dfe
+2	50	1731574465350914514	CMakeFiles/c_sandbox.dir/main.c.o	65cf45c2856021d9
+57	95	1731574625943218312	c_sandbox	5abf707ce706cde8
+1	57	1731574625887217972	CMakeFiles/c_sandbox.dir/sorting.c.o	f99b47a9677375e
