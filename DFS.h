@@ -10,6 +10,7 @@ struct grid;
 void dfs(struct grid * grid);
 struct grid * create_grid(int w, int h);
 void free_grid(struct grid * grid);
+void print_grid(struct grid * grid);
 
 
 #endif //DFS_H
